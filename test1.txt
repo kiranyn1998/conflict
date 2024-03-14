@@ -1,2 +1,2 @@
 city=null
-city=mysore
+city=kolar
